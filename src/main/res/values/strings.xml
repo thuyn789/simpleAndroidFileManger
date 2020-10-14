@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PT File Manager</string>
+    <string name="title_name">"   PT File Manager"</string>
+
+    //initialize string names
+    <string name="delete_button">Delete</string>
+    <string name="copy_button">Copy</string>
+    <string name="paste_button">Paste</string>
+    <string name="properties_button">Properties</string>
+
+    <string name="help">Help</string>
+    <string name="about_info">About This App</string>
+
+    <string name="create_file">Create File</string>
+    <string name="file_name">File Name</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+
+
+</resources>

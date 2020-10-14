@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/create_file_option"
+        android:title="@string/create_file"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/help_option"
+        android:title="@string/help"></item>
+
+    <item android:id="@+id/about_option"
+        android:title="@string/about_info"></item>
+
+</menu>
